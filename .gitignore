@@ -1,0 +1,6 @@
+/.metadata/
+/jex00/
+.project
+.classpath
+.settings
+*/target/*
